@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="12"/>
+    <BuildModes Active="Default"/>
+    <Units>
+      <Unit>
+        <Filename Value="PingPong.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="-1"/>
+        <CursorPos X="-1" Y="-1"/>
+        <UsageCount Value="31"/>
+      </Unit>
+      <Unit>
+        <Filename Value="main.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Main"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="82"/>
+        <CursorPos X="10" Y="4"/>
+        <UsageCount Value="31"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win64\windows.pp"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\lcl\controls.pp"/>
+        <UnitName Value="Controls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2036"/>
+        <CursorPos X="21" Y="1725"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Downloads\ping-pong\Ball\Ball.pas"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <CursorPos X="23" Y="19"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Downloads\ping-pong\Game\Game.pas"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Downloads\ping-pong\Game\Game.dfm"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="82"/>
+        <UsageCount Value="10"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Downloads\PingPongD-master\Unit1.pas"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="-1"/>
+        <WindowIndex Value="-1"/>
+        <CursorPos X="41" Y="10"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win\wininc\defines.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4915"/>
+        <CursorPos X="6" Y="4894"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win\wininc\redef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="649"/>
+        <CursorPos X="10" Y="665"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="..\Задание 1\FindMax.pas"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="56" Y="23"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="830"/>
+        <CursorPos X="11" Y="846"/>
+        <UsageCount Value="10"/>
+      </Unit>
+      <Unit>
+        <Filename Value="C:\lazarus\fpc\3.2.2\source\rtl\win\syswin.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="345"/>
+        <CursorPos X="5" Y="356"/>
+        <UsageCount Value="10"/>
+      </Unit>
+    </Units>
+    <JumpHistory HistoryIndex="29">
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="95" Column="28" TopLine="79"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="109" Column="17" TopLine="83"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="88" TopLine="49"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="94" Column="27" TopLine="42"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="98" Column="27" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="97" Column="27" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="98" Column="27" TopLine="46"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="97" Column="27" TopLine="45"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="19" Column="48" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="20" Column="48" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="19" Column="48" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="20" Column="48" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="19" Column="48" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="20" Column="48" TopLine="17"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="19" Column="48" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="20" Column="48" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="17" Column="43" TopLine="16"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="139" Column="27" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="138" Column="28" TopLine="113"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="137" Column="28" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="136" Column="28" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="135" Column="28" TopLine="110"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="136" Column="28" TopLine="111"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="137" Column="28" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="138" Column="29" TopLine="112"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="53" Column="62" TopLine="28"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="65" Column="54"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="120" Column="38" TopLine="89"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="121" Column="38" TopLine="90"/>
+      </Position>
+      <Position>
+        <Filename Value="main.pas"/>
+        <Caret Line="95" Column="63"/>
+      </Position>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

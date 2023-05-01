@@ -1,0 +1,102 @@
+object Form1: TForm1
+  Left = 772
+  Height = 400
+  Top = 346
+  Width = 800
+  BorderIcons = [biSystemMenu]
+  BorderStyle = bsToolWindow
+  Caption = 'Ping Pong'
+  ClientHeight = 400
+  ClientWidth = 800
+  Color = 1511183
+  DesignTimePPI = 120
+  Font.Color = clNone
+  OnCreate = FormCreate
+  Position = poDesktopCenter
+  LCLVersion = '2.2.0.4'
+  object Label1: TLabel
+    Left = 8
+    Height = 69
+    Top = 8
+    Width = 77
+    Caption = 'P1 move:'#13#10'Up   -   W'#13#10'Down - S'
+    Font.Color = 6513507
+    Font.Height = -17
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Label2: TLabel
+    Left = 712
+    Height = 69
+    Top = 8
+    Width = 74
+    Caption = 'P2 move:'#13#10'Up   -    ↑'#13#10'Down - ↓'
+    Font.Color = 6513507
+    Font.Height = -17
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Player1: TShape
+    Left = 0
+    Height = 130
+    Top = 130
+    Width = 20
+    Brush.Color = 13684736
+    Pen.Style = psClear
+  end
+  object Player2: TShape
+    Left = 780
+    Height = 130
+    Top = 130
+    Width = 20
+    Brush.Color = 3408080
+    Pen.Style = psClear
+  end
+  object Line: TShape
+    Left = 398
+    Height = 400
+    Top = 0
+    Width = 4
+    Brush.Color = 3092271
+    Pen.Style = psClear
+  end
+  object Ball: TShape
+    Left = 384
+    Height = 20
+    Top = 184
+    Width = 20
+    Pen.Color = clRed
+    Pen.Style = psClear
+    Pen.Width = 2
+    Shape = stCircle
+  end
+  object p1Score: TLabel
+    Left = 368
+    Height = 45
+    Top = 0
+    Width = 19
+    Alignment = taRightJustify
+    Caption = '0'
+    Font.Color = clWhite
+    Font.Height = -33
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object p2Score: TLabel
+    Left = 413
+    Height = 45
+    Top = 0
+    Width = 19
+    Caption = '0'
+    Font.Color = clWhite
+    Font.Height = -33
+    Font.Style = [fsBold]
+    ParentFont = False
+  end
+  object Timer1: TTimer
+    Interval = 1
+    OnTimer = Timer1Timer
+    Left = 8
+    Top = 360
+  end
+end
