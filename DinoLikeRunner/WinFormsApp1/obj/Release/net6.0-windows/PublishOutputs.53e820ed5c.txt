@@ -1,0 +1,5 @@
+C:\Users\David\Desktop\СКФУ\Курсовой проект 2 семестр Visual Basic\Задание 5\WinFormsApp1.exe
+C:\Users\David\Desktop\СКФУ\Курсовой проект 2 семестр Visual Basic\Задание 5\WinFormsApp1.dll
+C:\Users\David\Desktop\СКФУ\Курсовой проект 2 семестр Visual Basic\Задание 5\WinFormsApp1.deps.json
+C:\Users\David\Desktop\СКФУ\Курсовой проект 2 семестр Visual Basic\Задание 5\WinFormsApp1.runtimeconfig.json
+C:\Users\David\Desktop\СКФУ\Курсовой проект 2 семестр Visual Basic\Задание 5\WinFormsApp1.pdb
